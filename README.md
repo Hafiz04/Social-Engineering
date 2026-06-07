@@ -27,5 +27,7 @@ What the IP address listed as the X-Originating-Ip?<br>
 
 Open up the email2.txt file to view the source of an attachment.<br>
 What is the Content-Type of the attachment?<br>
-![image alt]()
+![image alt](https://github.com/Hafiz04/Social-Engineering/blob/f949c1cc4ecb7dbdd5d1bd9be94e2583ffa25027/Screenshot%202026-06-07%20115052.png)
 
+What is the name of the attachment from the previous question?<br>
+![image alt]()
