@@ -15,4 +15,8 @@ Simple Mail Transfer Protocol (SMTP): Sends emails<br>
 Post Office Protocol (POP3): Downloads emails to a device<br>
 Internet Message Access Protocol (IMAP): Syncs emails across devices<br>
 
+![image alt](https://github.com/Hafiz04/Social-Engineering/blob/b1ed048aecee7538f1e4d24101e03e5783b5022a/Screenshot%202026-06-07%20113524.png)
+
+
+What is the full subject line of email1.eml?<br>
 ![image alt]()
