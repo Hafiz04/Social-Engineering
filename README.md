@@ -1,6 +1,8 @@
 # Social-Engineering
 Week 10
 
+__THM Phishing Analysis Fundamentals__
+
 An email is composed of the following elements:<br>
 
 Username: User mailbox that identifies the specific recipient’s mailbox on the email server<br>
@@ -48,5 +50,12 @@ What is the defanged (opens in new tab) X-Originating-IP?<br>
 
 Continue analyzing the email message source.<br>
 Which mail server generated the Authentication-Results header?<br>
+![image alt](https://github.com/Hafiz04/Social-Engineering/blob/bbcd9b09e4ad22cc46a8fa9a7a0988a15135cea5/Screenshot%202026-06-07%20124141.png)
+
+__THM The Phishing Pond__
+
+What is the flag at the end of the game?<br>
 ![image alt]()
+
+
                                                                         
