@@ -35,3 +35,7 @@ What is the name of the attachment from the previous question?<br>
 Decode the base64 string using either a PDF converter (opens in new tab) or CyberChef (opens in new tab).<br>
 What is the hidden flag value?<br>
 ![image alt](https://github.com/Hafiz04/Social-Engineering/blob/2414d9599013098c4795a084ee2a5faf44de31d4/Screenshot%202026-06-07%20121605.png)
+
+Which reputable organization is being spoofed in this phishing attempt?<br>
+![image alt]()
+                                                                        
