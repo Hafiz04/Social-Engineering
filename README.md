@@ -44,5 +44,9 @@ What is the sender's email address?<br>
 
 Inspect the email message source.<br>
 What is the defanged (opens in new tab) X-Originating-IP?<br>
+![image alt](https://github.com/Hafiz04/Social-Engineering/blob/8469325557fc0c393449bcc7ad62fe191e7d029c/Screenshot%202026-06-07%20123748.png)
+
+Continue analyzing the email message source.<br>
+Which mail server generated the Authentication-Results header?<br>
 ![image alt]()
                                                                         
