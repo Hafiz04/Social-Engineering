@@ -23,6 +23,9 @@ What is the full subject line of email1.eml?<br>
 
 View the message source of email1.eml using Thunderbird in your VM.<br>
 What the IP address listed as the X-Originating-Ip?<br>
-![image alt]()
+![image alt](https://github.com/Hafiz04/Social-Engineering/blob/07a3db4c31ca03240759c51777adf365884c6ac9/Screenshot%202026-06-07%20114835.png)
 
+Open up the email2.txt file to view the source of an attachment.<br>
+What is the Content-Type of the attachment?<br>
+![image alt]()
 
