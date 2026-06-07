@@ -20,3 +20,9 @@ Internet Message Access Protocol (IMAP): Syncs emails across devices<br>
 
 What is the full subject line of email1.eml?<br>
 ![image alt](https://github.com/Hafiz04/Social-Engineering/blob/d3a6de1829f8f800a027e67b790a79e6395299bc/Screenshot%202026-06-07%20114352.png)
+
+View the message source of email1.eml using Thunderbird in your VM.<br>
+What the IP address listed as the X-Originating-Ip?<br>
+![image alt]()
+
+
