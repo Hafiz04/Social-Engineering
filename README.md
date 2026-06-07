@@ -37,5 +37,12 @@ What is the hidden flag value?<br>
 ![image alt](https://github.com/Hafiz04/Social-Engineering/blob/2414d9599013098c4795a084ee2a5faf44de31d4/Screenshot%202026-06-07%20121605.png)
 
 Which reputable organization is being spoofed in this phishing attempt?<br>
+![image alt](https://github.com/Hafiz04/Social-Engineering/blob/3f86703f08a435e347e7082ed2cbc5869aff3e16/Screenshot%202026-06-07%20122251.png)
+
+What is the sender's email address?<br>
+![image alt](https://github.com/Hafiz04/Social-Engineering/blob/3f86703f08a435e347e7082ed2cbc5869aff3e16/Screenshot%202026-06-07%20122251.png)
+
+Inspect the email message source.<br>
+What is the defanged (opens in new tab) X-Originating-IP?<br>
 ![image alt]()
                                                                         
